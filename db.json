@@ -1,19 +1,20 @@
-
-  {
-    "id": 1,
-    "title": "Complete Homework",
-    "description": "Finish the math assignment and write the essay for English class."
-    "completed": false
-  },
-  {
-    "id": 2,
-    "title": "Grocery Shopping",
-    "description": "Buy fruits, vegetables, milk, eggs, and bread from the supermarket."
-    "completed": false
-  },
-  {
-    "id": 3,
-    "title": "Plan Weekend Trip",
-    "description": "Research nearby destinations, book accommodations, and plan activities for the weekend getaway."
-    "completed": false
-  }
+[
+    {
+      "id": 1,
+      "title": "Complete Homework",
+      "description": "Finish the math assignment and write the essay for English class.",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Grocery Shopping",
+      "description": "Buy fruits, vegetables, milk, eggs, and bread from the supermarket.",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Plan Weekend Trip",
+      "description": "Research nearby destinations, book accommodations, and plan activities for the weekend getaway.",
+      "completed": false
+    }
+  ]
